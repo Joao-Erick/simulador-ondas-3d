@@ -1,0 +1,25 @@
+# Executáveis e arquivos gerados pela compilação
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.pdb
+
+# Diretórios de saída
+output/
+build/
+dist/
+Debug/
+Release/
+
+# Configurações locais de editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos temporários e do sistema
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
