@@ -72,7 +72,9 @@ Dependendo da versão do compilador e da distribuição da GLFW, podem ser neces
 
 ## Demonstração
 
-Uma captura de tela ou GIF do programa em execução será acrescentado futuramente para mostrar os modos preenchido e wireframe.
+![Simulador de Ondas 3D em execução, com superfície azul e painel de controles](simulador-demo.png.png)
+
+*Simulação em execução no modo de superfície preenchida, com iluminação e parâmetros ajustáveis.*
 
 ## Conceitos aplicados
 
